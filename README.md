@@ -116,4 +116,6 @@ Agno-Recipe-Agent/
 - 🍰 Gluten-free desserts
 - 🥘 One-pot meals for busy nights
 
-![Image](https://github.com/user-attachments/assets/38c6945c-a5cd-4ad2-83c3-d36f496ac968)
+<img width="1878" height="856" alt="Image" src="https://github.com/user-attachments/assets/bb48e932-1858-42bb-89bb-8661d0c602e0" />
+
+<img width="1891" height="869" alt="Image" src="https://github.com/user-attachments/assets/ea725501-0fb4-49d6-8c1d-d18c3e7aceb9" />
